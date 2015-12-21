@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0 (Sun Microsystems Inc.)
+Agent-Class: com.elex.cok.Agent
+Premain-Class: com.elex.cok.Agent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+
